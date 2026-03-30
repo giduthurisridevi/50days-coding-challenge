@@ -1,0 +1,34 @@
+📊 Banking Sector Analysis Dashboard
+
+📌 Project Overview
+
+This project analyzes banking data using Power BI to understand customer behavior, transactions, and loan performance.
+
+🛠 Tools Used
+
+- Power BI
+- Excel
+
+📊 Dashboard Features
+
+- Customer Overview
+- Transaction Analysis
+- Loan Performance
+- Top Customers Analysis
+- Tooltip & Drill-through features
+- Interactive slicers
+
+🔍 Key Insights
+
+- Majority customers belong to the 30–50 age group
+- Top customers contribute highest transactions
+- Monthly transactions show fluctuations
+- Average account balance is around 50K
+- Loan default rate is moderate
+
+💡 Recommendations
+
+- Focus on high-value customers
+- Improve loan monitoring
+- Target middle-age customers
+- Increase customer engagement
